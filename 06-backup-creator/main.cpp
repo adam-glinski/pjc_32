@@ -2,7 +2,7 @@
 #include <fmt/core.h>
 #include <fmt/ranges.h>
 
-#define DEBUG
+// #define DEBUG
 namespace fs = std::filesystem;
 
 #ifdef DEBUG
